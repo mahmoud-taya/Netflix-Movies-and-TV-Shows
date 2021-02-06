@@ -22,7 +22,7 @@ Some of the interesting questions (tasks) which can be performed on this dataset
 ### Resources website:-
 >* www.udacity.com Myclass lessons 
 >* https://matplotlib.org/
-> https://www.kaggle.com/
-> https://github.com/
-> https://seaborn.pydata.org/examples/index.html
-> Stack Overflow - Where Developers Learn, Share, & Build Careers
+>* https://www.kaggle.com/
+>* https://github.com/
+>* https://seaborn.pydata.org/examples/index.html
+>* Stack Overflow - Where Developers Learn, Share, & Build Careers
