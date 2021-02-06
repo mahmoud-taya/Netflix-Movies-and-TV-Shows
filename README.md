@@ -20,8 +20,8 @@ Some of the interesting questions (tasks) which can be performed on this dataset
 5- Most of the average duration for movies 100 Min's.
 
 ### Resources website:-
-> www.udacity.com Myclass lessons 
-> https://matplotlib.org/
+>* www.udacity.com Myclass lessons 
+>* https://matplotlib.org/
 > https://www.kaggle.com/
 > https://github.com/
 > https://seaborn.pydata.org/examples/index.html
